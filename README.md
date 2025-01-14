@@ -48,3 +48,11 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<a href="https://github.com/SurafelFikadu"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=SurafelFikadu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" />
+
+<!-- wi*quL3fcV -->
+
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurafelFikadu&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /></a>
+
+![](https://komarev.com/ghpvc/?username=SurafelFikadu)
