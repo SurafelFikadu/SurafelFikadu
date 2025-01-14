@@ -7,8 +7,8 @@
 
 ## My GitHub Stats
 
-[![Linkedin: Abinet-Tesfu](https://img.shields.io/badge/-Abinet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abinet-tesfu-99a431185//)](https://www.linkedin.com/in/abinet-tesfu-99a431185//)
-[![GitHub Abinet508](https://img.shields.io/github/followers/Abinet508?label=follow&style=social)](https://github.com/Abinet508)
+[![Linkedin: Abinet-Tesfu](https://img.shields.io/badge/-Surafel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surafelfikadu//)](https://www.linkedin.com/in/surafelfikadu//)
+[![GitHub SurafelFikadu](https://img.shields.io/github/followers/SurafelFikadu?label=follow&style=social)](https://github.com/SurafelFikadu)
 
 ### Languages I Speak💻 🌐
 
