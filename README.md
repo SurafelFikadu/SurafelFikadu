@@ -3,11 +3,12 @@
 ## `Welcome to my GitHub profile.`
 
 - 🌱 I’m an IT and Alx/Holberton School fullstack software engineering graduate.
-- 👯 I’m looking to collaborate on freelance Web Developemnt, Data Science, AI, Data processing and Data mining, and Telegram Bots projects
+- 🌱 I’m also certify in Responsive Web Design, JavaScript algorithms & Data Structures, Front End Development Libraries and Data Visualization from freecodecamp.org
+- 👯 I’m looking to collaborate on freelance Web Developemnt projects
 
 ## My GitHub Stats
 
-[![Linkedin: Abinet-Tesfu](https://img.shields.io/badge/-Surafel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surafelfikadu//)](https://www.linkedin.com/in/surafelfikadu//)
+[![Linkedin: Surafel-Fikadu](https://img.shields.io/badge/-Surafel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surafelfikadu//)](https://www.linkedin.com/in/surafelfikadu//)
 [![GitHub SurafelFikadu](https://img.shields.io/github/followers/SurafelFikadu?label=follow&style=social)](https://github.com/SurafelFikadu)
 
 ### Languages I Speak💻 🌐
